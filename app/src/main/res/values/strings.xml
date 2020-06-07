@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">世界史用語集</string>
+    <string name="title">用語帳</string>
+    <string name="edit">用語一覧</string>
+    <string name="end">終了</string>
+    <string name="add2">意味・説明など</string>
+    <string name="add1">世界史用語</string>
+    <string name="back">戻る</string>
+    <string name="delete">消去</string>
+    <string name="save">保存</string>
+    <string name="next">次へ</string>
+    <string name="addWord">用語の登録</string>
+    <string name="deleteWord">この用語を削除</string>
+    <string name="ending">お疲れさまでした！</string>
+    <string name="retry">もう一度取り組む！</string>
+    <string name="finish">アプリを閉じる</string>
+</resources>
